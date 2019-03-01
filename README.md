@@ -47,4 +47,4 @@ Aplikasi ini digunakan mahasiswa untuk mengambil mata kuliah. Mata kuliah yang t
 
 :six: Screenshoot
 ------------------
-<img src="images/SS0.png" width="500">
+<img src="images/SS.PNG" width="500">
