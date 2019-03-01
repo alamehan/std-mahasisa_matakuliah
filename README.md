@@ -41,10 +41,10 @@ Aplikasi ini digunakan mahasiswa untuk mengambil mata kuliah. Mata kuliah yang t
 
 - [x] **Report Mahasiswa yang mengambil Matakuliah tertentu** :</br>Fitur ini dapat menampilkan nama-nama mahasiswa yang sedang mengambil matakuliah tertentu.
 
-:five: Struktur Data
+:four: Struktur Data
 --------------------
 <img src="images/STD.png" width="500">
 
-:six: Screenshoot
+:five: Screenshoot
 ------------------
 <img src="images/SS.PNG" width="500">
