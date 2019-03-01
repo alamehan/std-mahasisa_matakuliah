@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1490856847 source:d:\tubes asd [fix]\tubes asd program mahasiswa matakuliah\tubes asd\linklist.cpp
+	"linklist.h"
+
+1490857255 d:\tubes asd [fix]\tubes asd program mahasiswa matakuliah\tubes asd\linklist.h
+	<iostream>
+	<string>
+
+1490856847 source:d:\tubes asd [fix]\tubes asd program mahasiswa matakuliah\tubes asd\main.cpp
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	"linklist.h"
+
+1490856847 source:c:\users\acer\desktop\tubes asd [100%]\baru\program tubes asd\tubes asd backup final\tubes asd\linklist.cpp
+	"linklist.h"
+
+1490857255 c:\users\acer\desktop\tubes asd [100%]\baru\program tubes asd\tubes asd backup final\tubes asd\linklist.h
+	<iostream>
+	<string>
+
+1490856847 source:d:\file kampus\if semester 2\2. struktur data\2. tugas\tugas besar\tubes asd final (revisi)\program tubes asd\tubes asd backup final if.40-11 (raihan & zaki)\tubes asd backup final\tubes asd\linklist.cpp
+	"linklist.h"
+
+1490857255 d:\file kampus\if semester 2\2. struktur data\2. tugas\tugas besar\tubes asd final (revisi)\program tubes asd\tubes asd backup final if.40-11 (raihan & zaki)\tubes asd backup final\tubes asd\linklist.h
+	<iostream>
+	<string>
+
+1491583572 source:d:\file kampus\if semester 2\2. struktur data\2. tugas\tugas besar\tubes asd final (revisi)\program tubes asd\tubes asd backup final if.40-11 (raihan & zaki)\tubes asd backup final\tubes asd\main.cpp
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	"linklist.h"
+
